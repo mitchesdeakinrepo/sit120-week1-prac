@@ -1,4 +1,4 @@
-import { createApp } from "C:UserswjwesOneDriveDesktopsit120sit120 week 1week 1 app 2.0sit120-week1-prac\node_modules\vuedist\vue.d.ts";
+import { createApp } from "vue";
 import "./style.css";
 import App from "./App.vue";
 
